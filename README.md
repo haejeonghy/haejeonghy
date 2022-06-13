@@ -48,5 +48,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 </div>
