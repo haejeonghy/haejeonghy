@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me: haejeonghy@gmail.com
 
-#### 🔭 Stacks I used :
+#### 📖 History of my study: https://velog.io/@haejeonghy
+
+#### 🔭 Stacks I used:
 
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -34,21 +36,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mybatis-D24939?style=for-the-badge&logo=mybatis&logoColor=white">
 </div>
 
-#### 🌱 Stacks I'm currently learning : 
+#### 🌱 Stacks I'm currently learning: 
 
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">
 </div>
+
+#### 💡 My most used languages: 
+<p align="left">
+  <a href="https://github.com/haejeonghy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haejeonghy&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=default&hide=markdown" />
+  </a>
+</p>
