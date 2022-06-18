@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 #### 📫 How to reach me: haejeonghy@gmail.com
 
-#### 🪴 History of my projects and researches: https://velog.io/@haejeonghy
+#### 🌳 History of my projects and researches: https://velog.io/@haejeonghy
 
 #### 🌈 Writings about I studied: https://github.com/haejeonghy/til
 
