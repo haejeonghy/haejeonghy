@@ -55,6 +55,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/apollo graphql-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white">
 </div>
 
 #### 💡 My most used languages: 
