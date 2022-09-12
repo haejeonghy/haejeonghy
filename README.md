@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 #### 🌳 History of my projects and researches: https://velog.io/@haejeonghy
 
-#### 🌈 Writings about I studied: https://github.com/haejeonghy/til
-
 #### 🔭 Stacks I used:
 
 <div>
